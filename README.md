@@ -17,4 +17,24 @@ The rules for running the scripts are as follows:
 
 Since each R file takes at least 2–3 hours to run on average, I have included the resulting exports in the "Export" folder of this repository, to make it easier to verify the correctness of the scripts. In any case, if the scripts are run fully in the described order, the newly generated files will be exported directly to the project folder rather than the "Export" folder.
 
-The list of packages used in R is as follows:
+The list of used packages and their version in R is as follows:
+- car 3.1.5
+- DMwR 0.4.1
+- e1071 1.7.17
+- ggpmisc 1.0.0
+- gridExtra 2.3.1
+- gtsummary 2.5.1
+- jmv 2.8.0
+- lmtest 0.9.40
+- MASS 7.3.65
+- olsrr 0.7.0
+- openxlsx 4.2.8.1
+- paletteer 1.7.0
+- readxl 1.5.0
+- rstatix 1.0.0
+- scales 1.4.0
+- skedastic 2.0.3
+- tidytext 0.4.3
+- tidyverse 2.0.0
+- treemapify 2.6.1
+- tseries 0.10.61
